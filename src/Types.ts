@@ -127,6 +127,7 @@ export type TFace = {
             I: number;
             O: number;
             U: number;
+            Joy: number;
         };
     };
 };
